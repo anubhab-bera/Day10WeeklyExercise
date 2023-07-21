@@ -1,0 +1,8 @@
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\bin\Debug\WeeklyExercise.exe.config
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\bin\Debug\WeeklyExercise.exe
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\bin\Debug\WeeklyExercise.pdb
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\obj\Debug\WeeklyExercise.csproj.AssemblyReference.cache
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\obj\Debug\WeeklyExercise.csproj.SuggestedBindingRedirects.cache
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\obj\Debug\WeeklyExercise.csproj.CoreCompileInputs.cache
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\obj\Debug\WeeklyExercise.exe
+C:\.NET Training\Day 10\WeeklyExercise\WeeklyExercise\obj\Debug\WeeklyExercise.pdb
